@@ -1,0 +1,5 @@
+.idea/
+node_modules/
+.brackets.json
+public/bundle.js
+rethinkdb_data/
